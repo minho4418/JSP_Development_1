@@ -1,3 +1,3 @@
 # JSP_Development_1
 
-### DB(mysql), 자바, jsp 연동
+### 1. 회원가입 만들기 -> DB(mysql), 자바, jsp 연동
